@@ -1,5 +1,3 @@
-![17](https://github.com/Kathiresan-23013376/OS-Linux-commands-Shell-script/assets/150008375/805ef3fa-1708-4a68-b37b-d150163fa186)# OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
